@@ -8,11 +8,11 @@ Start the conversation straight away in the general discussion, then you and you
 
 You can post regular updates to keep everyone notified, and use our custom planning tools to organise your idea.
 
-**But that's not all?**
+## But that's not all?
 
 With the integration of SenseMyStreet sensor commissioning toolkit, you can borrow different tools form the tool box to help you in our exploration.
 
-**What makes Community Tool Box different?**
+## What makes Community Tool Box different?
 
 Unlike other platforms, Community Tool Box is designed with community at its heart. We believe that any idea can be improved by including more passionate voices. That’s why all our tools are open for everyone to use.
 
