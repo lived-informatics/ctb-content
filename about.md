@@ -1,5 +1,6 @@
 **Community Tool Box website leverages [Ideaboard](https://github.com/edjenkins/ideaboard) platform, an online collaboration tool developed at [Open Lab](https://openlab.ncl.ac.uk/), Newcastle University as a research project. It also integrates SenseMyStreet Sensor Commissioning toolkit which was originally developed in collaboration between Open Lab and [Urban Observatory](http://www.urbanobservatory.ac.uk/) at Newcastle University.**
 
+
 Community Tool Box is a new way of involving your friends/community/colleagues in shaping your latest idea. More than just a feedback tool, Community Tool Box is a collaborative space to develop any community imitative.
 
 Getting started on Community Tool Box is easy, with a few clicks you can launch an idea page and start inviting people to subscribe and collaborate.
