@@ -15,7 +15,7 @@ The sensemystreet.co.uk platform content can be edited using the .md files locat
 | Privacy Policy         | [https://sensemystreet.co.uk/privacy](https://sensemystreet.co.uk/privacy)   | [privacy.md](https://github.com/lived-informatics/ctb-content/blob/main/privacy.md)       | [privacy.md](http://prose.io/#lived-informatics/ctb-content/edit/main/privacy.md)       |
 | Research Policy        | [https://sensemystreet.co.uk/research](https://sensemystreet.co.uk/research) | [privacy.md](https://github.com/lived-informatics/ctb-content/blob/main/research.md)      | [research.md](http://prose.io/#lived-informatics/ctb-content/edit/main/research.md)     |
 | Terms Of Use           | [https://sensemystreet.co.uk/terms](https://sensemystreet.co.uk/terms)       | [terms.md](https://github.com/lived-informatics/ctb-content/blob/main/terms.md)           | [terms.md](http://prose.io/#lived-informatics/ctb-content/edit/main/terms.md)           |
-| FAQ          | [https://sensemystreet.co.uk/terms](https://sensemystreet.co.uk/faq)       | [faq.md](https://github.com/lived-informatics/ctb-content/blob/main/faq.md)           | [faq.md](http://prose.io/#lived-informatics/ctb-content/edit/main/faq.md)           |
+| FAQ          | [https://sensemystreet.co.uk/faq](https://sensemystreet.co.uk/faq)       | [faq.md](https://github.com/lived-informatics/ctb-content/blob/main/faq.md)           | [faq.md](http://prose.io/#lived-informatics/ctb-content/edit/main/faq.md)           |
 
 # Uploading files to the repository
 
