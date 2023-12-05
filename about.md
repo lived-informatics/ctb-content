@@ -43,7 +43,7 @@ If you're eager to embark on this technological journey with us, getting started
 
 The Community Toolbox Project is not just about technology; it's about community empowerment and shared progress. By borrowing a device, you become an active participant in shaping the future of your community. Join us on this exciting journey, and let's build a connected and caring community together!
 
-## Contact information
+## Contact Information
 
 You can find us at the Grainger Market or by emailing us to ioct@newcastle.ac.uk.
 
