@@ -37,7 +37,7 @@ If you're eager to embark on this technological journey with us, getting started
 
 **9.	Receive Your Data Report:** Once the device is returned, we will provide you with a comprehensive report of the data collected during your device usage. This report will offer insights into the impact of your contribution to community data.
 
-**10.	Stay Connected:** Your journey with the Community Toolbox Project doesn't end with device return. Stay connected with us through updates and community events at the Grainger Market. Your continued engagement helps us build a vibrant and supportive community.
+**10.	Stay Connected:** Your journey with the Community Toolbox Project doesn't end with the return of the device. Stay connected with us through updates and community events at the Grainger Market. Your continued engagement helps us build a vibrant and supportive community.
 
 ## Join Us in Shaping the Future
 
