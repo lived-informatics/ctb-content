@@ -13,5 +13,3 @@ Democratising Technology, by providing opportunities for the public to  experien
 Demonstrate that data can support individuals and communities: by deploying innovative technology, together we can gather valuable data to help drive positive change for ourselves  and our communities.  The Community Toolbox serves as a platform for citizens to actively participate in data collection for community wellbeing. 
 
 Transparent Reporting: Our commitment to transparency is reflected in the clear and comprehensive reports generated from the gathered data. These reports provide insights into various aspects of the community, influencing informed decision-making for community development. 
-
- 
